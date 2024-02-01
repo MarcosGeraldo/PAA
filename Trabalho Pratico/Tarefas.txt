@@ -1,0 +1,6 @@
+-Fazer Analise de Complexidade manual
+-Implementar o codigo*Marcos*
+-Rodar os testes*Todos*
+-Fazer o teste estatístico t pareado com 95% de confiança e verificar se houve empate estatístico ou informar qual obteve estatisticamente o melhor desempenho.*Marcos*
+-Fazer grafico e analisa-lo mostrando o tempo médio com intervalo de confiança para a execução de cada algoritmo, considerando os tamanhos de instâncias avaliados.
+-Fazer documento relatorio *Vitor*

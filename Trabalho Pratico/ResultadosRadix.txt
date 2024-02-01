@@ -1,0 +1,240 @@
+Numero de instancias: 100
+Iteração  1 , Tempo total:  0.00025080900013563223
+Numero de instancias: 100
+Iteração  2 , Tempo total:  0.00015409599927806994
+Numero de instancias: 100
+Iteração  3 , Tempo total:  0.0002725430003920337
+Numero de instancias: 100
+Iteração  4 , Tempo total:  0.0001365709995297948
+Numero de instancias: 100
+Iteração  5 , Tempo total:  0.00015333800001826603
+Numero de instancias: 100
+Iteração  6 , Tempo total:  0.0002781550001600408
+Numero de instancias: 100
+Iteração  7 , Tempo total:  0.0001336070008619572
+Numero de instancias: 100
+Iteração  8 , Tempo total:  0.00027603499984252267
+Numero de instancias: 100
+Iteração  9 , Tempo total:  0.00038377999953809194
+Numero de instancias: 100
+Iteração  10 , Tempo total:  0.00024103399937303038
+Numero de instancias: 100
+Iteração  11 , Tempo total:  0.00015237000025081215
+Numero de instancias: 100
+Iteração  12 , Tempo total:  0.0001807729995562113
+Numero de instancias: 100
+Iteração  13 , Tempo total:  2.4461488769993593
+Numero de instancias: 100
+Iteração  14 , Tempo total:  0.00026466800045454875
+Numero de instancias: 100
+Iteração  15 , Tempo total:  0.0002548239999669022
+Numero de instancias: 100
+Iteração  16 , Tempo total:  0.0002308590001121047
+Numero de instancias: 100
+Iteração  17 , Tempo total:  0.0002282859995830222
+Numero de instancias: 100
+Iteração  18 , Tempo total:  0.00014301700048235944
+Numero de instancias: 100
+Iteração  19 , Tempo total:  0.0002478619999237708
+Numero de instancias: 100
+Iteração  20 , Tempo total:  0.00012950300060765585
+Numero de instancias: 1000
+Iteração  1 , Tempo total:  0.0026887659996646107
+Numero de instancias: 1000
+Iteração  2 , Tempo total:  0.002058188000773953
+Numero de instancias: 1000
+Iteração  3 , Tempo total:  0.0025295120003647753
+Numero de instancias: 1000
+Iteração  4 , Tempo total:  0.002045074999841745
+Numero de instancias: 1000
+Iteração  5 , Tempo total:  0.002013229000112915
+Numero de instancias: 1000
+Iteração  6 , Tempo total:  0.0015489470006286865
+Numero de instancias: 1000
+Iteração  7 , Tempo total:  0.0021314179994078586
+Numero de instancias: 1000
+Iteração  8 , Tempo total:  0.0020033330001751892
+Numero de instancias: 1000
+Iteração  9 , Tempo total:  0.0015143580003496027
+Numero de instancias: 1000
+Iteração  10 , Tempo total:  0.001995936000639631
+Numero de instancias: 1000
+Iteração  11 , Tempo total:  0.0021825539997735177
+Numero de instancias: 1000
+Iteração  12 , Tempo total:  0.0021289599999363418
+Numero de instancias: 1000
+Iteração  13 , Tempo total:  0.0015263609993780847
+Numero de instancias: 1000
+Iteração  14 , Tempo total:  0.0020324280003478634
+Numero de instancias: 1000
+Iteração  15 , Tempo total:  0.0015235450000545825
+Numero de instancias: 1000
+Iteração  16 , Tempo total:  0.0015318979994844995
+Numero de instancias: 1000
+Iteração  17 , Tempo total:  0.0015804300001036609
+Numero de instancias: 1000
+Iteração  18 , Tempo total:  0.0015230490007525077
+Numero de instancias: 1000
+Iteração  19 , Tempo total:  0.0020258849999663653
+Numero de instancias: 1000
+Iteração  20 , Tempo total:  0.0020415750004758593
+Numero de instancias: 10000
+Iteração  1 , Tempo total:  0.030047514000216324
+Numero de instancias: 10000
+Iteração  2 , Tempo total:  0.028018396999868855
+Numero de instancias: 10000
+Iteração  3 , Tempo total:  0.03524947500045528
+Numero de instancias: 10000
+Iteração  4 , Tempo total:  0.03472118599984242
+Numero de instancias: 10000
+Iteração  5 , Tempo total:  0.03641624300053081
+Numero de instancias: 10000
+Iteração  6 , Tempo total:  0.029522656000153802
+Numero de instancias: 10000
+Iteração  7 , Tempo total:  0.036135070999989694
+Numero de instancias: 10000
+Iteração  8 , Tempo total:  0.035131143999933556
+Numero de instancias: 10000
+Iteração  9 , Tempo total:  0.02862391700000444
+Numero de instancias: 10000
+Iteração  10 , Tempo total:  0.02784791599970049
+Numero de instancias: 10000
+Iteração  11 , Tempo total:  0.035922928000218235
+Numero de instancias: 10000
+Iteração  12 , Tempo total:  0.040471057999639015
+Numero de instancias: 10000
+Iteração  13 , Tempo total:  0.03454634099944087
+Numero de instancias: 10000
+Iteração  14 , Tempo total:  0.032115484999849286
+Numero de instancias: 10000
+Iteração  15 , Tempo total:  0.029361048999817285
+Numero de instancias: 10000
+Iteração  16 , Tempo total:  0.034078179999596614
+Numero de instancias: 10000
+Iteração  17 , Tempo total:  0.0450129509999897
+Numero de instancias: 10000
+Iteração  18 , Tempo total:  0.04111660100079462
+Numero de instancias: 10000
+Iteração  19 , Tempo total:  0.03688383100052306
+Numero de instancias: 10000
+Iteração  20 , Tempo total:  0.037996270999428816
+Numero de instancias: 100000
+Iteração  1 , Tempo total:  0.34620106800048234
+Numero de instancias: 100000
+Iteração  2 , Tempo total:  0.41002745399964624
+Numero de instancias: 100000
+Iteração  3 , Tempo total:  0.33831615400049486
+Numero de instancias: 100000
+Iteração  4 , Tempo total:  0.3996205600005851
+Numero de instancias: 100000
+Iteração  5 , Tempo total:  0.39736261400048534
+Numero de instancias: 100000
+Iteração  6 , Tempo total:  0.4010344329999498
+Numero de instancias: 100000
+Iteração  7 , Tempo total:  0.3979385180000463
+Numero de instancias: 100000
+Iteração  8 , Tempo total:  0.39856697199957125
+Numero de instancias: 100000
+Iteração  9 , Tempo total:  0.4040370040002017
+Numero de instancias: 100000
+Iteração  10 , Tempo total:  0.34054549299980863
+Numero de instancias: 100000
+Iteração  11 , Tempo total:  0.3991300150000825
+Numero de instancias: 100000
+Iteração  12 , Tempo total:  0.34155099999952654
+Numero de instancias: 100000
+Iteração  13 , Tempo total:  0.39446418800071115
+Numero de instancias: 100000
+Iteração  14 , Tempo total:  0.4092680300000211
+Numero de instancias: 100000
+Iteração  15 , Tempo total:  0.4010854640000616
+Numero de instancias: 100000
+Iteração  16 , Tempo total:  0.34631624899975577
+Numero de instancias: 100000
+Iteração  17 , Tempo total:  0.40551054400020803
+Numero de instancias: 100000
+Iteração  18 , Tempo total:  0.41150959099923057
+Numero de instancias: 100000
+Iteração  19 , Tempo total:  0.4090075970007092
+Numero de instancias: 100000
+Iteração  20 , Tempo total:  0.3417295360004573
+Numero de instancias: 1000000
+Iteração  1 , Tempo total:  4.386279843000011
+Numero de instancias: 1000000
+Iteração  2 , Tempo total:  4.4101481429997875
+Numero de instancias: 1000000
+Iteração  3 , Tempo total:  5.15463101000023
+Numero de instancias: 1000000
+Iteração  4 , Tempo total:  5.156189306999295
+Numero de instancias: 1000000
+Iteração  5 , Tempo total:  5.1507254580001245
+Numero de instancias: 1000000
+Iteração  6 , Tempo total:  5.134024703999785
+Numero de instancias: 1000000
+Iteração  7 , Tempo total:  5.150103355000283
+Numero de instancias: 1000000
+Iteração  8 , Tempo total:  5.151346386000114
+Numero de instancias: 1000000
+Iteração  9 , Tempo total:  5.142805135000344
+Numero de instancias: 1000000
+Iteração  10 , Tempo total:  4.354079963000004
+Numero de instancias: 1000000
+Iteração  11 , Tempo total:  5.152744784999413
+Numero de instancias: 1000000
+Iteração  12 , Tempo total:  5.111372657999709
+Numero de instancias: 1000000
+Iteração  13 , Tempo total:  5.154853892000574
+Numero de instancias: 1000000
+Iteração  14 , Tempo total:  5.13744553000015
+Numero de instancias: 1000000
+Iteração  15 , Tempo total:  6.394080755000687
+Numero de instancias: 1000000
+Iteração  16 , Tempo total:  4.371172428999671
+Numero de instancias: 1000000
+Iteração  17 , Tempo total:  4.377788120000332
+Numero de instancias: 1000000
+Iteração  18 , Tempo total:  5.1449776379995455
+Numero de instancias: 1000000
+Iteração  19 , Tempo total:  5.155979946000116
+Numero de instancias: 1000000
+Iteração  20 , Tempo total:  5.128954329999942
+Numero de instancias: 10000000
+Iteração  1 , Tempo total:  60.139220101998944
+Numero de instancias: 10000000
+Iteração  2 , Tempo total:  51.99292341599721
+Numero de instancias: 10000000
+Iteração  3 , Tempo total:  51.7421082960027
+Numero de instancias: 10000000
+Iteração  4 , Tempo total:  51.47912401299982
+Numero de instancias: 10000000
+Iteração  5 , Tempo total:  60.012970755000424
+Numero de instancias: 10000000
+Iteração  6 , Tempo total:  51.551544912999816
+Numero de instancias: 10000000
+Iteração  7 , Tempo total:  59.49665891100085
+Numero de instancias: 10000000
+Iteração  8 , Tempo total:  59.37227228199845
+Numero de instancias: 10000000
+Iteração  9 , Tempo total:  59.48251315499874
+Numero de instancias: 10000000
+Iteração  10 , Tempo total:  52.004438777999894
+Numero de instancias: 10000000
+Iteração  11 , Tempo total:  59.34189091099688
+Numero de instancias: 10000000
+Iteração  12 , Tempo total:  59.27232563200232
+Numero de instancias: 10000000
+Iteração  13 , Tempo total:  59.564737704000436
+Numero de instancias: 10000000
+Iteração  14 , Tempo total:  59.85450856800162
+Numero de instancias: 10000000
+Iteração  15 , Tempo total:  60.40147510400129
+Numero de instancias: 10000000
+Iteração  16 , Tempo total:  60.344529034002335
+Numero de instancias: 10000000
+Iteração  17 , Tempo total:  60.38255733400001
+Numero de instancias: 10000000
+Iteração  18 , Tempo total:  53.19330741700105
+Numero de instancias: 10000000
+Iteração  19 , Tempo total:  59.78398410199952
+Numero de instancias: 10000000
+Iteração  20 , Tempo total:  59.79783856299764
